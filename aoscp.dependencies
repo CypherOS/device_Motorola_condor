@@ -8,8 +8,8 @@
   {
     "repository":  "proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
-    "remote":      "tm",
-    "branch":      "cm-14.1"
+    "remote":      "aoscp",
+    "branch":      "n7.1"
   },
   {
     "repository":  "android_packages_resources_devicesettings",
